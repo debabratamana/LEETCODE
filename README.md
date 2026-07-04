@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/debabratamana/LEETCODE/tree/master/0015-3sum) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/debabratamana/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/debabratamana/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/debabratamana/LEETCODE/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/debabratamana/LEETCODE/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
