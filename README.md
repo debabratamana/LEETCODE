@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/debabratamana/LEETCODE/tree/master/0015-3sum) |
+| [2942-find-words-containing-character](https://github.com/debabratamana/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/debabratamana/LEETCODE/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3668-restore-finishing-order](https://github.com/debabratamana/LEETCODE/tree/master/3668-restore-finishing-order) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/debabratamana/LEETCODE/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
